@@ -23,6 +23,7 @@ LINKS TO MORE INFORMATION
 Not yet.
 
 APPENDIX I - README TEMPLATE USED HERE
+
 A quick project overview.
 
 Provide a short description of the project's goals and a bit of background. Any links that you frequently access are also good to include up at the top as well, for easy access. Everyone loves easy access.
